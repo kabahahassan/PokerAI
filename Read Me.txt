@@ -1,0 +1,20 @@
+In our project we used "numpy" library. 
+to download the library: 
+
+- Pycharm: 
+-> file -> setting -> project -> project interpreter -> " + " (top right)
+-> search : " numpy " -> install package. 
+
+- Anaconda: 
+-> anaconda prompt : " conda install -c anaconda numpy " 
+
+Also i used a " treys " library for poker, the library included
+in the submission file. 
+
+To run: 
+Create new project with the 2 library with " training.py " file.
+-> run " training.py " 
+
+exe file:
+When you run the exe file, it will take 1 min to run
+because the size of the file so big i have attached a link to the drive. 
